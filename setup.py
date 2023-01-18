@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-setup(name='sum_calci',
+setup(name='Trials',
       version='0.81',
       scripts=['__init__.py'],
       packages=find_packages()
